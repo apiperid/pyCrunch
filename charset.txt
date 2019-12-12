@@ -1,2 +1,2 @@
-The full charset for a real world password is : <br>
+The full charset for a real world password is :
 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()~`_-=[]{}\|;:<>?,./
