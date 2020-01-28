@@ -7,7 +7,7 @@ specific charset.
 
 Run the .py given file with the command :
 
-> python crunch.py arg1 arg2 arg3 arg4 
+<code>python crunch.py arg1 arg2 arg3 arg4</code> 
 
 Where args are :
 
@@ -24,7 +24,7 @@ arg1 and arg4 must be integer greater than 0.The others must be string
 
 Run the .py given file with the command :
 
-> python specificCrunch.py arg1 arg2 arg3 arg4 arg5
+<code>python specificCrunch.py arg1 arg2 arg3 arg4 arg5</code>
 
 Where args are :
 
